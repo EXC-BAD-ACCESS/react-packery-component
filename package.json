@@ -5,7 +5,7 @@
   "description": "A Packery component for React.js",
   "dependencies": {
     "create-react-class": "^15.7.0",
-    "draggabilly": "EXC-BAD-ACCESS/draggabilly-ps",
+    "draggabilly": "EXC-BAD-ACCESS/draggabilly",
     "imagesloaded": "eiriklv/imagesloaded",
     "packery": "metafizzy/packery",
     "prop-types": "^15.7.2"
